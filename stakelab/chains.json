@@ -21,6 +21,15 @@
       }
     },
     {
+      "name": "axelar",
+      "address": "axelarvaloper19dx6vywgr62jtsxhhlhlgh7ug5vmgjnz6dkeud",
+      "restake": {
+        "address": "axelar1mjq48r6435aewerpruwc8up3tz3rzan2ghgl25",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "bandchain",
       "address": "bandvaloper10s7t8prp0nz36g4dug5ftkm8elyg9hdtlpn6uv",
       "restake": {
@@ -70,6 +79,15 @@
       "address": "comdexvaloper1gfe4f7urf866xte5cpmkgsw7q2u97qj06ldtj3",
       "restake": {
         "address": "comdex1mjq48r6435aewerpruwc8up3tz3rzan2tku4cz",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "commercio",
+      "address": "did:com:valoper1t2zade4eye2wvf65wtqs5ekvtt65ytry2w3t7q",
+      "restake": {
+        "address": "did:com:1m3fw4fxxlhr4vhuxk3zwe27vt027eu2wltxa0u",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
@@ -183,6 +201,15 @@
       }
     },
     {
+      "name": "injective",
+      "address": "injvaloper1ackww60mtpc24d3wccxz90wyx5gxq0ggwtnw6c",
+      "restake": {
+        "address": "inj1mjq48r6435aewerpruwc8up3tz3rzan2xsfnnd",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "irisnet",
       "address": "iva1d3z30ndxuqas8vr3mrc7028ykvfaukal0tnj0p",
       "restake": {
@@ -255,6 +282,15 @@
       }
     },
     {
+      "name": "omniflixhub",
+      "address": "omniflixvaloper1pzkx9p2upmrrscwxvwgrmvmfrgcnfskxfzm3z0",
+      "restake": {
+        "address": "omniflix1mjq48r6435aewerpruwc8up3tz3rzan2380wkt",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "oraichain",
       "address": "oraivaloper1zwxeq68hunufljymhy0f0x7r2vvh9mu2hh8nt8",
       "restake": {
@@ -282,10 +318,28 @@
       }
     },
     {
+      "name": "passage",
+      "address": "pasgvaloper1judfryxu5xz4y3sljcqm82vv94psy3d4ckcp7m",
+      "restake": {
+        "address": "pasg1mjq48r6435aewerpruwc8up3tz3rzan20p8dv2",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "persistence",
       "address": "persistencevaloper1r7gdc8ag4ktmrvhed2xp09n3klrjuznwdzsru2",
       "restake": {
         "address": "persistence1mjq48r6435aewerpruwc8up3tz3rzan2z4cy03",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "rebus",
+      "address": "rebusvaloper1mz4lyh4m0qe3snskl4fj0yy9zrnrffrkqysl2c",
+      "restake": {
+        "address": "rebus1mjq48r6435aewerpruwc8up3tz3rzan2anaz4r",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
@@ -372,10 +426,46 @@
       }
     },
     {
+      "name": "stride",
+      "address": "stridevaloper1mjr7m233g7yklzvfjp7jvtpsjm286dv2rcytjj",
+      "restake": {
+        "address": "stride1mjq48r6435aewerpruwc8up3tz3rzan20j7t4e",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "teritori",
+      "address": "torivaloper1xu736l4vt6l2pg9k2yk66fq7zq6y4aj5xmd6vq",
+      "restake": {
+        "address": "tori1mjq48r6435aewerpruwc8up3tz3rzan2wdf769",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
       "name": "terraclassic",
       "address": "terravaloper10ahmn0ucd9selcv77rwysx5pvd607z04zde7uh",
       "restake": {
         "address": "terra14ea57tjt282v38k9dxez72a7gnjeepgtpmqlke",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "umee",
+      "address": "umeevaloper1gxgsq7jpkg0f8vfkk60c4rd30z4cgs6lyqtglf",
+      "restake": {
+        "address": "umee1mjq48r6435aewerpruwc8up3tz3rzan270rg98",
+        "run_time": "19:00",
+        "minimum_reward": 1000
+      }
+    },
+    {
+      "name": "vidulum",
+      "address": "vdlvaloper10lzfn24dcscg2l4rzdnz603l0mtj27775cuwl5",
+      "restake": {
+        "address": "vdl1783uahcme2gr4um54655g65cxklzky2072f6e5",
         "run_time": "19:00",
         "minimum_reward": 1000
       }
